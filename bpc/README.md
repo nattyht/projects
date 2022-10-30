@@ -1,3 +1,5 @@
+# Scrape psychotherpist emails from the British Psychoanalytic Council (BPC) website
+
 This notebook allows yout to scrape email addresses for BPC psychotherapists from the first 5 pages or results. 
 
 Input:
